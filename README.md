@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me
-Student at Epitech Rennes since 2018.
+Student at Epitech Rennes since 2018, I'm currently learning mobile/web development.  
+In my github you can find school projects I worked on and also some personal projects I have realised to learn new stuff.  
+
+## Swag stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottPal&theme=dracula&hide=c%23,asp,shaderlab)
 
 <!--
 **EliottPal/eliottpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
