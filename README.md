@@ -7,7 +7,16 @@ I'm a 22yo 🇫🇷 student at Epitech Rennes since 2018, I'm currently learning
 Apart from that, my other passions include art (especially cinema and music) and travelling.  
 In my github you can find school projects I worked on and also some personal projects that I have realised to learn new stuff.  
 
-If you want more information about me, you can check it out here: <p> </p><a href="https://www.linkedin.com/in/eliott-palueau/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Education:
+- 2022 ➝ Present: *Royal Melbourne Institute of Technology*.  
+    Exchange Student - Computer Science.   
+- 2021 ➝ 2022: *Epitech Rennes*.  
+    Teaching assistant - Programming (C/Js).  
+- 2018 ➝ 2021: *Epitech Rennes*.  
+    Student - Bachelor of Computer Science (Expert in Information Technologies).  
+  
+  
+If you want more information about me and my professional background, you can check it out here: <p> </p><a href="https://www.linkedin.com/in/eliott-palueau/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Swag stats
 
