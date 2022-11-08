@@ -20,7 +20,7 @@ If you want more information about my professional background, you can check it 
 
 ## Stats for flex:  
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottPal&theme=dracula&hide=c%23,asp,shaderlab)
 
