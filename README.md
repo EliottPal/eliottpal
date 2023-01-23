@@ -20,9 +20,9 @@ If you want more information about me, you can check it out here: <p> </p><a hre
 
 ## Stats for flex:  
 
-![Github Stats](https://github-readme-stats-ruby-one.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=EliottPal&theme=dracula&hide=c%23,asp,shaderlab)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottPal&theme=dracula&hide=c%23,asp,shaderlab)
 
 <!--
 **EliottPal/eliottpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
