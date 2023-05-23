@@ -3,7 +3,7 @@
 Hi! I'm **Eliott** welcome to my Github.   
  
 ## About Me
-I'm a 22yo 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.  
+I'm a 23y 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.  
 Apart from that, my other passions include art (especially cinema and music) and travelling.  
 In my github you can find school projects I worked on and also some personal projects that I have realised to learn new stuff.  
 
