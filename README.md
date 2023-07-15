@@ -20,8 +20,6 @@ If you want more information about me, you can check it out here: <p> </p><a hre
 
 ## Stats for flex:  
 
-![](https://github-readme-stats.vercel.app/api/?username=EliottPal&theme=dracula&count_private=true&show_icons=true)  
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eliottpal&theme=dracula)  
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottPal&theme=dracula&hide=c%23,asp,shaderlab)  
