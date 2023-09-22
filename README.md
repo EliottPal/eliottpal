@@ -8,7 +8,7 @@ Apart from that, my other passions include art (especially cinema and music) and
 In my github you can find school projects I worked on and also some personal projects that I have realised to learn new stuff.  
 
 ### Education:
-- 2022 ➝ Present: *Royal Melbourne Institute of Technology*.  
+- 2022 ➝ 2023: *Royal Melbourne Institute of Technology*.  
     Exchange Student - Computer Science.   
 - 2021 ➝ 2022: *Epitech Rennes*.  
     Teaching assistant - Programming (C/Js).  
