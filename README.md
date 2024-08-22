@@ -3,17 +3,20 @@
 Hi! I'm **Eliott** welcome to my Github.   
  
 ## About Me
-I'm a 23y 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.  
+I'm a 24y 🇫🇷 student at Epitech Rennes since 2018, currently working as a frontend web and mobile development in free-lance  
 Apart from that, my other passions include art (especially cinema and music) and travelling.  
 In my github you can find school projects I worked on and also some personal projects that I have realised to learn new stuff.  
 
 ### Education:
-- 2022 ➝ 2023: *Royal Melbourne Institute of Technology*.  
-    Exchange Student - Computer Science.   
+- 2018 ➝ 2021: *Epitech Rennes*.  
+    Student - Bachelor of Computer Science (Expert in Information Technologies).
 - 2021 ➝ 2022: *Epitech Rennes*.  
     Teaching assistant - Programming (C/Js).  
-- 2018 ➝ 2021: *Epitech Rennes*.  
-    Student - Bachelor of Computer Science (Expert in Information Technologies).  
+- 2022 ➝ 2023: *Royal Melbourne Institute of Technology*.  
+    Exchange Student - Computer Science.   
+- 2023 ➝ now: *Freelance*  
+    Front-end web & mobile developer.
+
   
   
 If you want more information about me, you can check it out here: <p> </p><a href="https://www.linkedin.com/in/eliott-palueau/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://eliottpal.com/"><img src="https://img.shields.io/badge/-eliottpal.com-important?style=for-the-badge" /></a>
