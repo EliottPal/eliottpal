@@ -3,7 +3,7 @@
 Hi! I'm **Eliott** welcome to my Github.   
  
 ## About Me
-I'm a 24y 🇫🇷 student at Epitech Rennes since 2018, currently working as a frontend web and mobile development in free-lance  
+I'm a 25y 🇫🇷 developer, currently working as a frontend web and mobile development in free-lance  
 Apart from that, my other passions include art (especially cinema and music) and travelling.  
 In my github you can find school projects I worked on and also some personal projects that I have realised to learn new stuff.  
 
